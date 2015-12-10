@@ -1,5 +1,5 @@
 {
-	"name": "DIPcms/template-extensions",
+	"name": "dipcms/template-extensions",
 	"description": "",
 	"homepage": "http://dipcom.cz",
 	"type": "project",
@@ -17,7 +17,7 @@
 	},
 	"autoload": {
 		"psr-0": {
-			"dipcms\\template-extensions\\": "src/"
+			"DIPcms\\template-extensions\\": "src/"
 		}
 	}
 }
