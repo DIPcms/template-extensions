@@ -17,7 +17,7 @@
 	},
 	"autoload": {
 		"psr-0": {
-			"DIPcms\\Template-extensions\\": "src/"
+			"DIPcms\\template-extensions\\": "src/"
 		}
 	}
 }
