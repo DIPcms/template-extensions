@@ -20,8 +20,8 @@
 		"nette/tester": "@dev"
 	},
 	"autoload": {
-		"psr-0": {
-			"DIPcms\\": "src/"
+		"psr-4": {
+			"DIPcms\\TemplateExtension\\": "src/"
 		}
 	}
 }
