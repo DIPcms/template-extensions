@@ -2,7 +2,7 @@
 	"name": "dipcms/template-extensions",
 	"description": "",
 	"homepage": "http://dipcom.cz",
-	"type": "project",
+	"type": "library",
 	"license": ["MIT"],
 	"authors": [
 		{
