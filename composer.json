@@ -1,0 +1,23 @@
+{
+	"name": "DIPcms/template-extensions",
+	"description": "",
+	"homepage": "http://dipcom.cz",
+	"type": "project",
+	"license": ["MIT"],
+	"authors": [
+		{
+			"name": "Mykola Chomenko",
+			"homepage": "http://dipcom.cz",
+                        "email": "mykola.chomenko@dipcom.cz"
+		}
+	],
+	"require": {
+		"nette/di": "~2.3@dev",
+                "latte/latte": "~2.3@dev"
+	},
+	"autoload": {
+		"psr-0": {
+			"DIPcms\\Template-extensions\\": "src/"
+		}
+	}
+}
