@@ -16,7 +16,9 @@
 		"nette/di": "~2.2",
                 "latte/latte": "~2.2"
 	},
-	
+	"require-dev": {
+		"nette/tester": "@dev"
+	},
 	"autoload": {
 		"psr-0": {
 			"DIPcms\\template-extensions\\": "src/"
