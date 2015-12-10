@@ -11,10 +11,17 @@
                         "email": "mykola.chomenko@dipcom.cz"
 		}
 	],
+	
 	"require": {
 		"nette/di": "~2.3@dev",
                 "latte/latte": "~2.3@dev"
 	},
+	
+	"require-dev": {
+		"nette/di": "~2.3@dev",
+                "latte/latte": "~2.3@dev"	
+	},
+	
 	"autoload": {
 		"psr-0": {
 			"DIPcms\\template-extensions\\": "src/"
