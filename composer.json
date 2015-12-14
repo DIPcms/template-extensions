@@ -23,7 +23,7 @@
 		"psr-4": {
 			"DIPcms\\TemplateExtension\\": "src/"
 		}
-	}
+	},
 	"extra": {
 		"branch-alias": {
 			"dev-master": "1.0-dev"
